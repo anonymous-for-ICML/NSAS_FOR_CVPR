@@ -75,4 +75,9 @@ cd CNN && python visualize.py Random_NSAS
 cd RNN && python visualize.py Random_NSAS 
 ```
 
-
+## Codes and experimental results on NAS-Bench-201
+The codes and experimental results on NAS-Bench-201 could be found in https://drive.google.com/open?id=1D3JOWFbBkWeD1NLlgMvRvAMZ9wDLwL-K
+```
+cd CNN && python visualize.py Random_NSAS 
+cd RNN && python visualize.py Random_NSAS 
+```
